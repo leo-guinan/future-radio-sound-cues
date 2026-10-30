@@ -1,0 +1,58 @@
+{
+  "cue_set": "Future Radio Sound Bible v1",
+  "generator": "deterministic Python synthesis",
+  "seed": 120026,
+  "sample_rate": 48000,
+  "status": "prototype",
+  "cues": [
+    {
+      "file": "cues/fr-agnolo-isolation.wav",
+      "duration_sec": 10.0,
+      "sha256": "65ccec0dd709c43f6ff1a5402d516269ea71b977100032b1c2ca8b1f933fcbd6"
+    },
+    {
+      "file": "cues/fr-assemble.wav",
+      "duration_sec": 1.2,
+      "sha256": "0c82818650fd062bf56089e8816961b711ee3915273b94603ba4b660f2e98a92"
+    },
+    {
+      "file": "cues/fr-borges-isolation.wav",
+      "duration_sec": 10.0,
+      "sha256": "c02f483f0ec20e847d2f8956a35591a80dc87941b4d058d535e4f83960a6f8c1"
+    },
+    {
+      "file": "cues/fr-carrier.wav",
+      "duration_sec": 4.0,
+      "sha256": "887dd496884d415d85e31288a227787dd0312e5f52fe8e2e6a3a97f09f6348c8"
+    },
+    {
+      "file": "cues/fr-eval.wav",
+      "duration_sec": 0.7700208333333334,
+      "sha256": "29ec4372ace5a885fd8b73d885cce3f15839757861ebb68737b6fb497278665b"
+    },
+    {
+      "file": "cues/fr-leonardo-isolation.wav",
+      "duration_sec": 10.0,
+      "sha256": "7e2c367fd0ad752b1e1559fad9406532d1d9af106196fc3c3bfa356ca0ceb039"
+    },
+    {
+      "file": "cues/fr-open.wav",
+      "duration_sec": 1.7000208333333333,
+      "sha256": "ca1e8db753783aefa0b3b59432f539447277ac9d2c74d74f5d14f0a976123345"
+    },
+    {
+      "file": "cues/fr-packet.wav",
+      "duration_sec": 10.0,
+      "sha256": "c4e868033d4557d646ccf449a15d214df306a1f844f6eacbbebba45d1e8f25cc"
+    },
+    {
+      "file": "cues/fr-record.wav",
+      "duration_sec": 0.9000208333333334,
+      "sha256": "79d43604674431cf47b7c75709993f3aac719f4a0bece7e85b1e31f38975891f"
+    }
+  ],
+  "residuals": [
+    "These are symbolic cue prototypes, not a finished score or claim about meaning.",
+    "No cue implies consent, publication, funding, achievement, or authorization."
+  ]
+}
