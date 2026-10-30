@@ -18,7 +18,7 @@ All WAVs are mono, 48 kHz, 16-bit PCM. The packet and its three foreground stems
 
 ## ArtRiver assessment
 
-This repository is intentionally compatible with ArtRiver's local-first model: the WAVs, generator, manifest, and later mix/project states can be tracked as an ArtRiver project. ArtRiver is currently a local prototype with `arp session`, `arp revise`, `arp flow`, `arp runoff`, `arp checkout`, and `arp diff`; its remote Glacier/Iceberg concepts are not production-ready. GitHub is the public distribution mirror for this first pass. Do not treat a GitHub commit as an ArtRiver signed patch or a public release receipt.
+Intended integration: this repository is the public sound-asset surface for a future ArtRiver project. The WAVs, generator, manifest, episode assemblies, and later mix/project states should be tracked as ArtRiver history, with cue variants preserved as runoffs before a human selects a cut. ArtRiver is not installed here yet, so this commit is a GitHub-backed pre-ArtRiver stage, not an ArtRiver patch. ArtRiver is currently a local prototype with `arp session`, `arp revise`, `arp flow`, `arp runoff`, `arp checkout`, and `arp diff`; its remote Glacier/Iceberg concepts are not production-ready. GitHub is the public distribution mirror for this first pass. Do not treat a GitHub commit as an ArtRiver signed patch or a public release receipt.
 
 Suggested ArtRiver workflow when the CLI is installed:
 
